@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Moja Strona</title>
+  </head>
+  <body>
+    <h1>Witaj na mojej stronie!</h1>
+    <p>To jest mój pierwszy artykuł.</p>
+    <ul>
+      <li>Element 1</li>
+      <li>Element 2</li>
+      <li>Element 3</li>
+    </ul>
+  </body>
+</html>
